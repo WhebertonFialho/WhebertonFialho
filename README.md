@@ -15,18 +15,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-##  GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/SeuUsuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhebertonFialho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhebertonFialho&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ##  Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whebertonfialho/)
